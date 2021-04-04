@@ -1,0 +1,7 @@
+venv
+build
+.idea
+__pycache__
+*.session
+*.pkl
+api_details.txt
